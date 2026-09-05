@@ -1,0 +1,7 @@
+# Copy this file to db.properties and enter your own MySQL details.
+# db.properties is git-ignored so your password is never committed.
+db.host=localhost
+db.port=3306
+db.name=pims_db
+db.user=root
+db.password=CHANGE_ME
